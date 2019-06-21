@@ -1,0 +1,18 @@
+# Name			County		Marks 
+#
+Juo Kyoto		Japan		1000	999	999	999999
+Petrenko Ivan		Ukraine 	100	45	34	11	
+Novokhatnii Vlas 	Ukraine 	100 	100	100	10000	
+Di Hua 			China 		100 	79 	59 	34 
+Jodin Poli		Poland		0 	30 	12 	3 	
+Pi Wu 			China 		19 	79 	66 	34 	
+Kovol Ivan 		Russia 		100 	10 	20 	80 	
+Hy Cho			Japan		100	20	30 	11	
+Jonson Jon 		USA 		100 	34 	66 	89 	
+Walse Piter		USA		100	70	80	90	
+Koval Ivan		Ukraine		90	89	797	232	
+Lau Pul			Thailand	100	10	12 	3 
+Dergan Maria		Russia		80	34	65	89	
+Uho Di			Japan		80	20	100 	100	
+Joanon James		USA		20	100	40	89	
+I II			Belarus		90	12	100	19

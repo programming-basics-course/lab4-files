@@ -1,0 +1,90 @@
+1	1	Juo Kyoto                      Japan               999
+2	11	Koval Ivan                     Ukraine             161
+3	3	Novokhatnii Vlas               Ukraine             100
+4	14	Uho Di                         Japan               90
+5	10	Walse Piter                    USA                 85
+6	9	Jonson Jon                     USA                 77
+7	13	Dergan Maria                   Russia              72
+8	4	Di Hua                         China               69
+9	15	Joanon James                   USA                 64
+10	16	I II                           Belarus             54
+11	6	Pi Wu                          China               50
+12	7	Kovol Ivan                     Russia              50
+13	2	Petrenko Ivan                  Ukraine             39
+14	8	Hy Cho                         Japan               25
+15	12	Lau Pul                        Thailand            11
+16	5	Jodin Poli                     Poland              7
+
+
+******** TOP 1 ********
+Japan
+Country average: 371
+
+Juo	Kyoto	999	
+Uho	Di	90	
+Hy	Cho	25	
+
+
+
+******** TOP 2 ********
+Ukraine
+Country average: 100
+
+Koval	Ivan	161	
+Petrenko	Ivan	39	
+Novokhatnii	Vlas	100	
+
+
+
+******** TOP 3 ********
+USA
+Country average: 75
+
+Joanon	James	64	
+Walse	Piter	85	
+Jonson	Jon	77	
+
+
+
+Place #4
+Russia
+Country average: 61
+
+Dergan	Maria	72	
+Kovol	Ivan	50	
+
+
+
+Place #5
+China
+Country average: 59
+
+Di	Hua	69	
+Pi	Wu	50	
+
+
+
+Place #6
+Belarus
+Country average: 54
+
+I	II	54	
+
+
+
+Place #7
+Thailand
+Country average: 11
+
+Lau	Pul	11	
+
+
+
+Place #8
+Poland
+Country average: 7
+
+Jodin	Poli	7	
+
+
+
